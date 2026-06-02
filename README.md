@@ -4,7 +4,7 @@
 
 - Student passionate about technology
 - Exploring AI, Automation, Data Science & Development
-- Currently learning DSA in C++
+- Building skills in AI, Automation, Data Science, Development and Problem Solving
 - Building projects and sharing my journey
 
 ## Current Focus
