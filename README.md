@@ -2,24 +2,24 @@
 
 ## About Me
 
-- Student passionate about technology
-- Exploring AI, Automation, Data Science & Development
-- Building skills in AI, Automation, Data Science, Development and Problem Solving
-- Building projects and sharing my journey
+- Data Science Student
+- Interested in AI, Data Science, and Software Development
+- Building projects and continuously learning
+- Exploring open-source and automation technologies
 
 ## Current Focus
 
-- DSA & Problem Solving
 - Deep Learning
-- n8n Automation
 - Data Science
+- DSA & Problem Solving
 - Project Development
+- Open Source
 
 ## Projects
 
 - Smart Attendance System
 - DSA in C++
-- Future AI Projects
+- AI & Data Science Projects
 
 ## Connect With Me
 
