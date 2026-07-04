@@ -41,11 +41,26 @@ Learning. Building. Improving.
 </p>
 ## 📈 Contribution Graph
 
+## 📈 Contribution Graph
+
 [![Dhruv's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruvsaini-code&theme=tokyo-night)](https://github.com/dhruvsaini-code)
 
-## 👀 Profile Views
+## 💻 Tech Stack
 
-![](https://komarev.com/ghpvc/?username=dhruvsaini-code&style=for-the-badge&color=blue)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nodejs,mongodb,mysql,git,github,vscode,docker&perline=6"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Dhruv+Saini;Data+Science+Student;AI+Developer;Full+Stack+Developer;DSA+Enthusiast"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvsaini-code&repo=dsa-in-cpp&theme=tokyonight"/>
+</p>
+
+
+
 
 
 
