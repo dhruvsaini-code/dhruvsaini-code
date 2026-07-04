@@ -59,6 +59,10 @@ Learning. Building. Improving.
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvsaini-code&repo=dsa-in-cpp&theme=tokyonight"/>
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Dhruv+Saini;Data+Science+Student;AI+Developer;Full+Stack+Developer;Always+Learning+🚀"/>
+</p>
+
 
 
 
