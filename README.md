@@ -1,26 +1,38 @@
-# Hi, I'm Dhruv 👋
+dhruv@macbook
+----------------------------------------
+OS: macOS Sequoia
+College: Bennett University
+Major: B.Tech CSE (Data Science)
 
-## About Me
+Languages:
+• C++
+• Python
+• JavaScript
 
-- Data Science Student
-- Interested in AI, Data Science, and Software Development
-- Building projects and continuously learning
-- Exploring open-source and automation technologies
+Currently Building:
+• UI Lab
+• AI Attendance System
+• Personal Finance Dashboard
 
-## Current Focus
+Currently Learning:
+• Data Structures & Algorithms
+• System Design
+• Machine Learning
+• MLOps
 
-- Deep Learning
-- Data Science
-- DSA & Problem Solving
-- Project Development
-- Open Source
+Tools:
+• VS Code
+• Git
+• Docker
+• MySQL
+• React
+• Node.js
 
-## Projects
-
-- Smart Attendance System
-- DSA in C++
-- AI & Data Science Projects
-
+Interests:
+• AI
+• Open Source
+• Video Editing
+• Automation
 ## Connect With Me
 
 - GitHub: https://github.com/dhruvsaini-code
